@@ -2,6 +2,6 @@
 Tracks personal expenses 
 
 ## Concepts Covered
-Variables 
-Data types 
-Data structures 
+- Variables 
+- Data types 
+- Data structures 
